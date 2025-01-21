@@ -161,16 +161,6 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 
 5. Open a Pull Request
 
-
-
-
----
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
 ---
 
 Contact
