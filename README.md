@@ -61,7 +61,7 @@ install.packages(c("shiny", "ggplot2", "dplyr", "tidyverse", "readxl", "patchwor
 
 
 
-git clone https://github.com/your-username/PK-Parameter-Calculations-RShiny-App.git
+git clone https://github.com/vasimshaikh12/PK-Parameter-Calculations-RShiny-App.git
 
 4. Set the working directory in R:
 
